@@ -1,1 +1,1 @@
-
+In this journey of mastering Network - Security, there are multiple terms that I should learn practice. Some of the terms could be familiar where as some might be completely stranger to me. But I will make sure to put my hands on each of the important terms that are needed for a secure network environment.
