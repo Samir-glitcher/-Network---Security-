@@ -4,7 +4,7 @@ This repository tracks my learning progress in network security, packet analysis
 
 #### In this journey of mastering Network - Security, there are multiple terms that I should learn as well as practice. Some of the terms could be familiar where as some might be completely stranger to me. But I will make sure to put my hands on each of the important terms that are needed for a secure network environment.
 
-
+First, learning about Wireshark as we will mostly be looking at packets and traffics to analyse them.
  ## What is wireshark?
  
  
@@ -37,6 +37,74 @@ After learning about all the user interface terms, now its finally turn for next
 pcap. The default format used by the libpcap packet capture library. Used by tcpdump, _Snort, Nmap, Ntop, and many other tools.
 
 pcapng. A flexible, extensible successor to the pcap format. Wireshark 1.8 and later save files as pcapng by default. Versions prior to 1.8 used pcap. Used by Wireshark and by tcpdump in newer versions of macOS.
+
+
+### After basic knowledge of how Wireshark functions we can play with its various features.
+These are what we can do to learn more:
+
+
+Capture devices
+
+
+Capturing packets
+
+
+know more about packets
+
+
+conversations
+
+
+What to look for?
+
+
+Right-click filtering
+
+
+Capturing insecure data (HTTP)
+
+
+Filtering HTTP
+
+
+Viewing packet contents
+
+
+Viewing entire streams
+
+
+Viewing insecure data
+
+
+Filtering HTTPS (secure) traffic
+
+
+Buttons
+
+
+Coloring rules
+
+
+Packet diagrams
+
+
+Delta time
+
+
+Filter: Hide protocols
+
+
+Filter: Show SYN flags
+
+
+Filter: Show flagged packets
+
+
+Filter: Connection releases
+
+
+*Just a note that you can filter different other things like packets you want to see, some particular ip addresses you dont want to be displayed. 
+
 
 
   
